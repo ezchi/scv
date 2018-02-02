@@ -1,7 +1,6 @@
 #ifndef UTIL_H
 #define UTIL_H
 
-#include "scv/scv_config.h"
 #include <stddef.h>
 
 /* These are potential duplicates. */

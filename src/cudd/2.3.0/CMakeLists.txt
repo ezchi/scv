@@ -1,0 +1,8 @@
+add_subdirectory(st)
+add_subdirectory(obj)
+add_subdirectory(cudd)
+add_subdirectory(util)
+add_subdirectory(mtr)
+add_subdirectory(dddmp)
+add_subdirectory(nanotrav)
+add_subdirectory(mnemosyne)

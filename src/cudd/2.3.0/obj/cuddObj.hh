@@ -30,8 +30,6 @@
 /* Nested includes                                                           */
 /*---------------------------------------------------------------------------*/
 
-#include "scv/scv_config.h"
-
 #include <iostream>
 
 #include "util.h"
